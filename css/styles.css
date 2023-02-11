@@ -1,0 +1,18 @@
+/* #f9a05a #3bcb6a  */
+body {
+    background-color: #131A26;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.white-text {
+    color: white;
+}
+
+.container {
+    position: relative;
+}
+
+.bottom-text {
+    position: absolute;
+    bottom: 0;
+}
